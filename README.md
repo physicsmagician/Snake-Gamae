@@ -1,6 +1,9 @@
 # Snake-Game
-This program is a remake of the classic snake game that I used to play on my dad's old Nokia phone. 
-To play the game go to the src->AnimationLoopShell->ExampleFrame->Run
+This program is a remake of the classic snake game that I used to play on my dad's old Nokia phone.
+
+HOW TO:
+To play the game go to the src->AnimationLoopShell->ExampleFrame->Run. If you're just here for a quick look then check out the mechanics in the gif below.
+![Snake-Game-demo](https://user-images.githubusercontent.com/59658246/93869245-c8a17e00-fc88-11ea-9f8d-c7551c344de6.gif)
 
 RULES:
 The rules of the game are simple: Grow as long as you can without bumping into any barriers!
